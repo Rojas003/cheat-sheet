@@ -39,3 +39,9 @@ ex: 'cp insert file name'
 ## 13. 'mv'
 Moves or renames a file or directory.
 ex: 'mv insert file name"
+## 14. 'grep'
+Searches for matching test in a file.
+Ex: 'grep "main" readme.md"
+## 15. 'rmdir'
+Removes a whole directory
+Ex: 'rmdir insert directory name"
