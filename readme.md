@@ -30,6 +30,9 @@ Ex:'man ls'
 ## 10. 'history'
 Lists the past executed commands in the temrinal. 
 ex: 'history"
-## 'cat'
+## 11. 'cat'
 Shows the contents of a file.
 ex: 'cat readme.md'
+## 12. 'cp'
+Copies the file or directories
+ex: 'cp insert file name'
