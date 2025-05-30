@@ -36,3 +36,6 @@ ex: 'cat readme.md'
 ## 12. 'cp'
 Copies the file or directories
 ex: 'cp insert file name'
+## 13. 'mv'
+Moves or renames a file or directory.
+ex: 'mv insert file name"
