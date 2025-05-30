@@ -21,3 +21,6 @@ ex: 'rm insert file name"
 ## 7 'clear'
 Clears the terminal screen
 ex: 'clear'
+## 8 'echo'
+prints texts to the terminal or writes it to the file.
+Ex: 'echo "Hello"
