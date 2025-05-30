@@ -12,3 +12,6 @@ Ex: `pwd`
 ## 4. `mkdir`
 Creates a new directory (folder).  
 Ex: `mkdir projects`
+## 5 'touch'
+creates a new empty file
+ex: 'touch index.html"
