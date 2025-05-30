@@ -18,3 +18,6 @@ ex: 'touch index.html"
 ## 6 'rm'
 removes a file
 ex: 'rm insert file name"
+## 7 'clear'
+Clears the terminal screen
+ex: 'clear'
