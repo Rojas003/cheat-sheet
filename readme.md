@@ -24,3 +24,6 @@ ex: 'clear'
 ## 8 'echo'
 prints texts to the terminal or writes it to the file.
 Ex: 'echo "Hello"
+## 9. 'man'
+Displays the manual page for a command
+Ex:'man ls'
