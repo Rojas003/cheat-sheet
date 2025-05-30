@@ -15,3 +15,6 @@ Ex: `mkdir projects`
 ## 5 'touch'
 creates a new empty file
 ex: 'touch index.html"
+## 6 'rm'
+removes a file
+ex: 'rm insert file name"
