@@ -12,18 +12,21 @@ Ex: `pwd`
 ## 4. `mkdir`
 Creates a new directory (folder).  
 Ex: `mkdir projects`
-## 5 'touch'
+## 5. 'touch'
 creates a new empty file
 ex: 'touch index.html"
-## 6 'rm'
+## 6. 'rm'
 removes a file
 ex: 'rm insert file name"
-## 7 'clear'
+## 7. 'clear'
 Clears the terminal screen
 ex: 'clear'
-## 8 'echo'
+## 8. 'echo'
 prints texts to the terminal or writes it to the file.
 Ex: 'echo "Hello"
 ## 9. 'man'
 Displays the manual page for a command
 Ex:'man ls'
+## 10. 'history'
+Lists the past executed commands in the temrinal. 
+ex: 'history"
