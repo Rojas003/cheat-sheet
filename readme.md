@@ -9,3 +9,6 @@ Ex: `cd Documents'
 ## 3. `pwd`
 Prints the full path of the current directory.  
 Ex: `pwd`
+## 4. `mkdir`
+Creates a new directory (folder).  
+Ex: `mkdir projects`
